@@ -1,0 +1,5 @@
+linea = input()
+a , b = linea.split()
+a = int(a)
+b = int(b)
+print(a+b)
